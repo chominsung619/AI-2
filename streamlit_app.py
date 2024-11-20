@@ -126,7 +126,7 @@ content_data = {
             "신라면",
             "진라면"
         ]
-    }
+    },
     labels[3]: {
         'images': [
             "https://via.placeholder.com/300?text=Label3_Image1",
