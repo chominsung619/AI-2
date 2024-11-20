@@ -123,8 +123,8 @@ content_data = {
         ],
         'texts': [
             "진라면",
-            "신라면",
-            "진라면"
+            "Label 3 관련 두 번째 텍스트 내용입니다.",
+            "Label 3 관련 세 번째 텍스트 내용입니다."
         ]
     },
     labels[3]: {
@@ -140,8 +140,8 @@ content_data = {
         ],
         'texts': [
             "진짬뽕",
-            "신라면",
-            "진라면"
+            "Label 4 관련 두 번째 텍스트 내용입니다.",
+            "Label 4 관련 세 번째 텍스트 내용입니다."
         ]
     }
 }
@@ -168,3 +168,4 @@ if uploaded_file is not None:
             'texts': ["기본 텍스트"] * 3
         })
         display_right_content(prediction, data)
+
